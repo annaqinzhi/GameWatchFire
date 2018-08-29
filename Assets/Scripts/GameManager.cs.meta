@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ff9a8e6a911a47ffb1c1daa2097eef1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumperPrefab: {fileID: 1395932159583532, guid: 425c936f593c348c0949d683684cedf7,
+      type: 2}
+  - fireman: {instanceID: 0}
+  - lifeController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DA86320A-8D34-3287-AF5D-64052967132D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JumperController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FiremanController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Input.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/test/Green.cs" Line="20" Column="70" />
+      <File FileName="Assets/Scripts/test/Red.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/JumperController.cs" Line="57" Column="14" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="38" Column="12" />
+      <File FileName="Assets/Scripts/JumperPosition.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
