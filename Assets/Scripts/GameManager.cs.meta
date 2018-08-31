@@ -6,8 +6,9 @@ MonoImporter:
   defaultReferences:
   - jumperPrefab: {fileID: 1395932159583532, guid: 425c936f593c348c0949d683684cedf7,
       type: 2}
-  - fireman: {instanceID: 0}
+  - fireman: {fileID: 1106718371746170, guid: dbe87e0e67d1044d58093758066e91e5, type: 2}
   - lifeController: {instanceID: 0}
+  - pointsController: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

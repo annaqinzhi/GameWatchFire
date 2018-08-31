@@ -9,14 +9,14 @@ public class FiremanController : MonoBehaviour {
 
 	private void OnEnable()
 	{
-        Input.OnLeftPressed += Input_OnLeftPressed;
-        Input.OnRightPressed += Input_OnRightPressed;
+        InputController.OnLeftPressed += Input_OnLeftPressed;
+        InputController.OnRightPressed += Input_OnRightPressed;
 	}
 
 	private void OnDisable()
 	{
-        Input.OnLeftPressed -= Input_OnLeftPressed;
-        Input.OnRightPressed -= Input_OnRightPressed;
+        InputController.OnLeftPressed -= Input_OnLeftPressed;
+        InputController.OnRightPressed -= Input_OnRightPressed;
 	}
 
 	private void Start()

@@ -498,7 +498,8 @@
 /Users/annaqin/Unity/GameWatchFire/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
 /Users/annaqin/Unity/GameWatchFire/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
 /Users/annaqin/Unity/GameWatchFire/Temp/bin/Debug/Unity.IvyParser.dll.mdb
-/Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
 /Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 /Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.dll
 /Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.pdb
+/Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/annaqin/Unity/GameWatchFire/obj/Debug/Assembly-CSharp.csproj.CopyComplete

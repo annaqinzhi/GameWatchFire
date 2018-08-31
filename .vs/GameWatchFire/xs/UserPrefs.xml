@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{DA86320A-8D34-3287-AF5D-64052967132D}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JumperController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PointsController.cs">
     <Files>
-      <File FileName="Assets/Scripts/FiremanController.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Input.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/test/Green.cs" Line="20" Column="70" />
-      <File FileName="Assets/Scripts/test/Red.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/JumperController.cs" Line="57" Column="14" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="38" Column="12" />
-      <File FileName="Assets/Scripts/JumperPosition.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="27" Column="33" />
+      <File FileName="Assets/Scripts/FiremanController.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/LifeViewController.cs" Line="18" Column="26" />
+      <File FileName="Assets/Scripts/JumperController.cs" Line="22" Column="27" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/InputButtons.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/JumperPosition.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/PointsController.cs" Line="22" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
